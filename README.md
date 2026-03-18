@@ -15,8 +15,6 @@ The design focuses on replicating:
 
 Navigation links have been customised to redirect to my personal platforms, such as LinkedIn and GitHub.
 
----
-
 🔗 Live Website:
 
 https://dantevilanework-code.netlify.app/

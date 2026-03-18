@@ -65,4 +65,9 @@ Interact with the design elements
 ---
 
 ## 🎥 Preview
-![Preview](preview.png)
+
+---
+
+
+<img width="1280" height="966" alt="preview" src="https://github.com/user-attachments/assets/4abd4476-6240-4386-a517-a808ba576316" />
+

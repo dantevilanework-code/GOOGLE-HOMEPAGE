@@ -8,7 +8,9 @@ This project was built using Visual Studio Code as a beginner-friendly exercise 
 The design focuses on replicating:
 
 🔍 The central search bar
+
 🎯 Navigation elements
+
 🧭 Clean and minimal layout similar to Google
 
 Navigation links have been customised to redirect to my personal platforms, such as LinkedIn and GitHub.

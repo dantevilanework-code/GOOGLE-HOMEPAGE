@@ -19,7 +19,7 @@ Navigation links have been customised to redirect to my personal platforms, such
 
 🔗 Live Website:
 
-https://dantevilanework-code.github.io/google-clone/
+https://dantevilanework-code.netlify.app/
 
 ---
 

@@ -26,8 +26,8 @@ https://dantevilanework-code.netlify.app/
 ## ✨ Technologies
 
 HTML
-CSS
 
+CSS
 
 ---
 

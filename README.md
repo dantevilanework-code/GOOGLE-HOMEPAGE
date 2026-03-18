@@ -25,6 +25,9 @@ https://dantevilanework-code.netlify.app/
 
 ## ✨ Technologies
 
+
+---
+
 HTML
 
 CSS
@@ -32,6 +35,8 @@ CSS
 ---
 
 ## 🚀 Features
+
+---
 
 Clean and responsive layout inspired by Google
 Centred search bar design
@@ -41,6 +46,8 @@ Minimalist UI for a realistic front-end experience
 ---
 
 ## 📌 The Process
+
+---
 
 In preparation for my future career, I have started building websites on a monthly basis to showcase my experience and improve my understanding of new technologies.
 
@@ -62,6 +69,8 @@ Overall, I am very satisfied with the result as it strengthens my foundation in 
 
 ## 📖 Running the Website
 
+---
+
 Click the website link provided in the repository
 Explore the layout and navigation links
 Interact with the design elements
@@ -71,7 +80,6 @@ Interact with the design elements
 ## 🎥 Preview
 
 ---
-
 
 <img width="1280" height="966" alt="preview" src="https://github.com/user-attachments/assets/4abd4476-6240-4386-a517-a808ba576316" />
 

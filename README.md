@@ -64,5 +64,5 @@ Interact with the design elements
 
 ---
 
-##🎥 Preview
-
+## 🎥 Preview
+![Preview](image.png)

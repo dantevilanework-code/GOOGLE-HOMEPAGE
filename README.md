@@ -38,6 +38,8 @@ Centred search bar design
 Navigation links (redirecting to personal profiles)
 Minimalist UI for a realistic front-end experience
 
+---
+
 ## 📌 The Process
 
 In preparation for my future career, I have started building websites on a monthly basis to showcase my experience and improve my understanding of new technologies.

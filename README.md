@@ -21,7 +21,7 @@ https://dantevilanework-code.github.io/google-clone/
 
 ---
 
-##✨ Technologies
+## ✨ Technologies
 
 HTML
 CSS
@@ -29,14 +29,14 @@ CSS
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 Clean and responsive layout inspired by Google
 Centred search bar design
 Navigation links (redirecting to personal profiles)
 Minimalist UI for a realistic front-end experience
 
-##📌 The Process
+## 📌 The Process
 
 In preparation for my future career, I have started building websites on a monthly basis to showcase my experience and improve my understanding of new technologies.
 
@@ -56,7 +56,7 @@ Overall, I am very satisfied with the result as it strengthens my foundation in 
 
 ---
 
-##📖 Running the Website
+## 📖 Running the Website
 
 Click the website link provided in the repository
 Explore the layout and navigation links

@@ -1,4 +1,6 @@
-🎓 Front-End Google Clone
+# 🎓 Front-End Google Clone
+
+---
 
 A simple front-end recreation of the Google homepage layout.
 This project was built using Visual Studio Code as a beginner-friendly exercise to improve my HTML and CSS skills.
@@ -11,16 +13,21 @@ The design focuses on replicating:
 
 Navigation links have been customised to redirect to my personal platforms, such as LinkedIn and GitHub.
 
+---
+
 🔗 Live Website:
 
 https://dantevilanework-code.github.io/google-clone/
 
-(update if your repo name is different)
+---
 
-✨ Technologies
+#✨ Technologies
 
 HTML
 CSS
+
+
+---
 
 🚀 Features
 
@@ -29,7 +36,7 @@ Centred search bar design
 Navigation links (redirecting to personal profiles)
 Minimalist UI for a realistic front-end experience
 
-📌 The Process
+#📌 The Process
 
 In preparation for my future career, I have started building websites on a monthly basis to showcase my experience and improve my understanding of new technologies.
 
@@ -46,12 +53,16 @@ There are many opportunities to expand this project, such as adding search funct
 
 Overall, I am very satisfied with the result as it strengthens my foundation in front-end development and represents another step forward in my coding journey.
 
-📖 Running the Website
+
+---
+
+#📖 Running the Website
 
 Click the website link provided in the repository
 Explore the layout and navigation links
 Interact with the design elements
 
-🎥 Preview
+---
 
-(Insert your screenshot here in GitHub)
+#🎥 Preview
+
